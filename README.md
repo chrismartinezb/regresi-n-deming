@@ -22,3 +22,8 @@ Este proyecto requiere **Python 3.6** y la instalación de las siguientes librer
 [deming.py](https://github.com/chrismartinezb/Game-of-thrones-analysis/tree/master/GoT): Archivo donde se encuentra mi implementacion de la regresion de Deming cuando delta = 1. 
 
 [main.py](https://github.com/chrismartinezb/Game-of-thrones-analysis/tree/master/CSV): El modelo que se tiene que ejecutar para conseguir los resultados descritos en las instrucciones del ejercicio.
+
+
+## Instrucciones.
+
+![Screenshot](screenshot.png)
