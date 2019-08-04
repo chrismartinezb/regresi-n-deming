@@ -48,7 +48,7 @@ class Modelo_Deming:
         if not self.beta0 or not self.beta1:
             print('Use el metodo .modelar(), para hacer predicciones, o introduzca sus propios valores para la ordenada y la pendiente')
         else:
-            self.predicciones['Predicción de producción'] = self.predicciones['Velocidad'].apply(lambda x: fda. hipótesis(self.beta0, self.beta1,x))
+            self.predicciones['Predicción de producción'] = self.predicciones['Velocidad'].apply(lambda x: fda. hipotesis(self.beta0, self.beta1,x))
         
     
         
