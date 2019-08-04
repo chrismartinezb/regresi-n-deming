@@ -11,3 +11,6 @@ Este proyecto requiere **Python 3.6** y la instalación de las siguientes librer
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [scipy.odr](https://docs.scipy.org/doc/scipy/reference/odr.html)
+
+
+## Descripción de archivos.
