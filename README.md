@@ -26,4 +26,4 @@ Este proyecto requiere **Python 3.6** y la instalación de las siguientes librer
 
 ## Instrucciones.
 
-![Screenshot](screenshot.png)
+![Screenshot](inst.png)
