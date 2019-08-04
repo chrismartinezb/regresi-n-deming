@@ -10,4 +10,4 @@ Este proyecto requiere **Python 3.6** y la instalación de las siguientes librer
 - [pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
-- [seaborn](https://seaborn.pydata.org/)
+- [scipy.odr](https://docs.scipy.org/doc/scipy/reference/odr.html)
