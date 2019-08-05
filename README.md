@@ -15,7 +15,7 @@ Este proyecto requiere **Python 3.6** y la instalación de las siguientes librer
 
 ## Descripción de archivos.
 
-[Analisis](https://github.com/chrismartinezb/regresi-n-deming/blob/master/Analisis.ipynb): Jupyter notebook donde especifico todo el proceso, desde el análisis hasta el porque de la implementación.
+[Análisis](https://github.com/chrismartinezb/regresi-n-deming/blob/master/Analisis.ipynb): Jupyter notebook donde especifico todo el proceso, desde el análisis hasta el porque de la implementación.
 
 [funciones_de_ayuda.py](https://github.com/chrismartinezb/regresi-n-deming/blob/master/funciones_de_ayuda.py): Se describe solo, son funciones que necesito para implementar una clase llamada Modelo_Deming en el siguiente archivo. Aquí pueden encontrar mi implementación de %ECM y %EMA.
 
