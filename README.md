@@ -26,7 +26,7 @@ Este proyecto requiere **Python 3.6** y la instalación de las siguientes librer
 
 ## Instrucciones.
 
-Una vez descargadas las librerías necesarias, accedemos al directorio donde se encuentran los archivos y ejecutamos main.py. Este no va a pedir el path hacia el archivo .txt donde se encuentras los datos y predicciones, en el formato especificado por el ejercicio. Despues de dar el path el programa nos regresara: 
+Una vez descargadas las librerías necesarias, accedemos al directorio donde se encuentran los archivos y ejecutamos main.py. Este nos va a pedir el path hacia el archivo .txt donde se encuentran los datos y predicciones en el formato especificado por el ejercicio. Despues de dar el path el programa nos regresara: 
 
 Pendiente y ordenada.\
 
