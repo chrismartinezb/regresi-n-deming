@@ -26,4 +26,10 @@ Este proyecto requiere **Python 3.6** y la instalación de las siguientes librer
 
 ## Instrucciones.
 
+Una vez descargadas las librerias necesarias, accedemos al directorio donde se encuentran los archivos y ejecutamos main.py. Este no va a pedir el path haccia el archivo .txt donde se encuentras los datos y predicciones, en el formato especificado por el ejercicio. Despues de dar el path el programa nos regresara: 
+
+Pendiente y ordenada
+ECM Y EMA
+Predicciones.
+
 ![Screenshot](inst.png)
