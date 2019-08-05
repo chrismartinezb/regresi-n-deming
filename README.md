@@ -32,4 +32,4 @@ Pendiente y ordenada
 ECM Y EMA
 Predicciones.
 
-![Screenshot](inst.png)
+![Screenshot](ins.png)
